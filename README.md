@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aviralmittal7150/Leetcode/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/aviralmittal7150/Leetcode/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
