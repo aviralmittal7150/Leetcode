@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/aviralmittal7150/Leetcode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aviralmittal7150/Leetcode/tree/master/0061-rotate-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aviralmittal7150/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aviralmittal7150/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
