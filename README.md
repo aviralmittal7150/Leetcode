@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aviralmittal7150/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/aviralmittal7150/Leetcode/tree/master/0066-plus-one) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aviralmittal7150/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aviralmittal7150/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aviralmittal7150/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/aviralmittal7150/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
