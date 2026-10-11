@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aviralmittal7150/Leetcode/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
