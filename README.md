@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aviralmittal7150/Leetcode/tree/master/0069-sqrtx) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aviralmittal7150/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aviralmittal7150/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aviralmittal7150/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aviralmittal7150/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/aviralmittal7150/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aviralmittal7150/Leetcode/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aviralmittal7150/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aviralmittal7150/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
