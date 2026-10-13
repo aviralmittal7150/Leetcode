@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aviralmittal7150/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aviralmittal7150/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aviralmittal7150/Leetcode/tree/master/0068-text-justification) |
+| [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aviralmittal7150/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aviralmittal7150/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aviralmittal7150/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aviralmittal7150/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aviralmittal7150/Leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Combinatorics
 |  |
 | ------- |
