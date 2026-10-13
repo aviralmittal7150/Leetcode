@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/aviralmittal7150/Leetcode/tree/master/0071-simplify-path) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/aviralmittal7150/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
