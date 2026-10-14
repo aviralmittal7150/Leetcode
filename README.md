@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aviralmittal7150/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aviralmittal7150/Leetcode/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/aviralmittal7150/Leetcode/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Combinatorics
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aviralmittal7150/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aviralmittal7150/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/aviralmittal7150/Leetcode/tree/master/0071-simplify-path) |
+| [0087-scramble-string](https://github.com/aviralmittal7150/Leetcode/tree/master/0087-scramble-string) |
 ## Hash Table
 |  |
 | ------- |
