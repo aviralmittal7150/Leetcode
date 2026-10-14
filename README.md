@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aviralmittal7150/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/aviralmittal7150/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/aviralmittal7150/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aviralmittal7150/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aviralmittal7150/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/aviralmittal7150/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aviralmittal7150/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aviralmittal7150/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/aviralmittal7150/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/aviralmittal7150/Leetcode/tree/master/0087-scramble-string) |
 ## Hash Table
 |  |
@@ -135,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/aviralmittal7150/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
