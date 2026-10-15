@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aviralmittal7150/Leetcode/tree/master/0061-rotate-list) |
+| [0432-all-oone-data-structure](https://github.com/aviralmittal7150/Leetcode/tree/master/0432-all-oone-data-structure) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0432-all-oone-data-structure](https://github.com/aviralmittal7150/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aviralmittal7150/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/aviralmittal7150/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/aviralmittal7150/Leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
