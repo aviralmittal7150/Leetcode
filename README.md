@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0220-contains-duplicate-iii](https://github.com/aviralmittal7150/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/aviralmittal7150/Leetcode/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/aviralmittal7150/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0220-contains-duplicate-iii](https://github.com/aviralmittal7150/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0414-third-maximum-number](https://github.com/aviralmittal7150/Leetcode/tree/master/0414-third-maximum-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aviralmittal7150/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aviralmittal7150/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -171,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/aviralmittal7150/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/aviralmittal7150/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/aviralmittal7150/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/aviralmittal7150/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
