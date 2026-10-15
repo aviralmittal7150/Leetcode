@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aviralmittal7150/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/aviralmittal7150/Leetcode/tree/master/0068-text-justification) |
+| [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
 ## Quicksort
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aviralmittal7150/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aviralmittal7150/Leetcode/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
+| [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aviralmittal7150/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/aviralmittal7150/Leetcode/tree/master/0087-scramble-string) |
 | [0392-is-subsequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
