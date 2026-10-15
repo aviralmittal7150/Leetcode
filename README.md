@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aviralmittal7150/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aviralmittal7150/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aviralmittal7150/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aviralmittal7150/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aviralmittal7150/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aviralmittal7150/Leetcode/tree/master/0070-climbing-stairs) |
+| [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aviralmittal7150/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/aviralmittal7150/Leetcode/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 ## Combinatorics
 |  |
 | ------- |
