@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/0100-same-tree) |
 ## Trie
 |  |
 | ------- |
@@ -208,9 +209,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/aviralmittal7150/Leetcode/tree/master/0127-word-ladder) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/aviralmittal7150/Leetcode/tree/master/0127-word-ladder) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
