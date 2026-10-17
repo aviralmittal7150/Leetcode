@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aviralmittal7150/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0090-subsets-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aviralmittal7150/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0220-contains-duplicate-iii](https://github.com/aviralmittal7150/Leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aviralmittal7150/Leetcode/tree/master/0067-add-binary) |
+| [0090-subsets-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0090-subsets-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aviralmittal7150/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Newton's Method
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/aviralmittal7150/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
