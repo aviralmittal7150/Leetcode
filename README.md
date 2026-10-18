@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/aviralmittal7150/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/aviralmittal7150/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aviralmittal7150/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/aviralmittal7150/Leetcode/tree/master/0087-scramble-string) |
+| [0125-valid-palindrome](https://github.com/aviralmittal7150/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aviralmittal7150/Leetcode/tree/master/0127-word-ladder) |
 | [0392-is-subsequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
