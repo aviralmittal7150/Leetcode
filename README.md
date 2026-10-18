@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/aviralmittal7150/Leetcode/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aviralmittal7150/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aviralmittal7150/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aviralmittal7150/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aviralmittal7150/Leetcode/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aviralmittal7150/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
@@ -119,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aviralmittal7150/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aviralmittal7150/Leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aviralmittal7150/Leetcode/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -219,8 +224,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/0100-same-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/0100-same-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
