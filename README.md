@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/aviralmittal7150/Leetcode/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aviralmittal7150/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aviralmittal7150/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1254-number-of-closed-islands](https://github.com/aviralmittal7150/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aviralmittal7150/Leetcode/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aviralmittal7150/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/aviralmittal7150/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aviralmittal7150/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
