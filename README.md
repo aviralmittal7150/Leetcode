@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aviralmittal7150/Leetcode/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviralmittal7150/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aviralmittal7150/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1254-number-of-closed-islands](https://github.com/aviralmittal7150/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aviralmittal7150/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/aviralmittal7150/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0414-third-maximum-number](https://github.com/aviralmittal7150/Leetcode/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aviralmittal7150/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aviralmittal7150/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aviralmittal7150/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/aviralmittal7150/Leetcode/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aviralmittal7150/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/aviralmittal7150/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aviralmittal7150/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
