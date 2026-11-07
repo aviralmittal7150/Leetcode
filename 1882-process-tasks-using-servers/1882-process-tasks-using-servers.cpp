@@ -1,32 +1,39 @@
 class Solution {
 public:
     vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
-       vector<int> ans;
-        int n = servers.size(), m = tasks.size();
-        multiset<vector<long long>> st, free;
-        for(int i=0;i<n;i++) {
-            st.insert({servers[i], i});
+       int n = servers.size();
+        int m = tasks.size();
+        
+        // store {weight, server_index}
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> free_server_pq;
+        // store {end_time, server_index}, use long instead of int because the time maybe overflow
+        priority_queue<pair<long, long>, vector<pair<long, long>>, greater<pair<long, long>>> busy_server_pq;
+        vector<int> ans(m);
+        
+        for (int i = 0; i < n; ++i) {
+            free_server_pq.push({servers[i], i});
         }
-        long long i=0, time=0;
-        while(i<m) {
-            if(time < i) time = i;
-            while(free.size()) {
-                auto topv = *free.begin();
-                if(topv[0]<=time) {
-                    free.erase(free.begin());
-                    st.insert({servers[topv[1]], topv[1]});
-                }
-                else break;
+        
+        long time = 0;
+        for (int i = 0; i < m; ++i) {
+            time = max(static_cast<long>(i), time);
+            if (free_server_pq.empty() && busy_server_pq.top().first > time) {
+                time = busy_server_pq.top().first;
             }
-            if(st.empty()) {
-                time = (*free.begin())[0];
-                continue;
+            
+            while (!busy_server_pq.empty() && busy_server_pq.top().first <= time) {
+                auto &info = busy_server_pq.top();
+                int server_idx = static_cast<int>(info.second);
+                free_server_pq.push({servers[server_idx], server_idx});
+                busy_server_pq.pop();
             }
-            auto first= *st.begin();
-            st.erase(st.begin());
-            ans.push_back(first[1]);
-            free.insert({time + tasks[i++], first[1]});
+            
+            auto &info = free_server_pq.top();
+            busy_server_pq.push({time + tasks[i], info.second});
+            ans[i] = info.second;
+            free_server_pq.pop();
         }
-        return ans; 
+        
+        return ans;
     }
 };
