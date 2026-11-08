@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aviralmittal7150/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aviralmittal7150/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1254-number-of-closed-islands](https://github.com/aviralmittal7150/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aviralmittal7150/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aviralmittal7150/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/aviralmittal7150/Leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aviralmittal7150/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/aviralmittal7150/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aviralmittal7150/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aviralmittal7150/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/aviralmittal7150/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aviralmittal7150/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/aviralmittal7150/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/aviralmittal7150/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aviralmittal7150/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aviralmittal7150/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/aviralmittal7150/Leetcode/tree/master/0127-word-ladder) |
 | [1254-number-of-closed-islands](https://github.com/aviralmittal7150/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aviralmittal7150/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aviralmittal7150/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bidirectional Search
 |  |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aviralmittal7150/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/aviralmittal7150/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aviralmittal7150/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aviralmittal7150/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -324,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aviralmittal7150/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/aviralmittal7150/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
