@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/aviralmittal7150/Leetcode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aviralmittal7150/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aviralmittal7150/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aviralmittal7150/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/aviralmittal7150/Leetcode/tree/master/0415-add-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/aviralmittal7150/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aviralmittal7150/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/aviralmittal7150/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aviralmittal7150/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aviralmittal7150/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
