@@ -22,3 +22,4 @@ public:
         return *ranges::partition_point(views::iota(1, n), not_fn(found));
     }
 };
+
